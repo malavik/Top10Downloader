@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="academy.learnprogramming.top10downloader">
+          package="com.example.malvi.top10downloader">
 
     <application
         android:allowBackup="true"
